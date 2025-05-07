@@ -1,4 +1,4 @@
-# xG Shot Outcome Prediction with Defensive Context and Play Patterns
+# Shot Prediction
 
 This repository contains code and data pipelines for predicting shot outcomes in football (soccer) using StatsBomb open data. The model integrates spatial features, freeze-frame defensive context, and play-pattern embeddings, and is trained using an XGBoost classifier optimized with focal loss to handle class imbalance.
 
